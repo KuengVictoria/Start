@@ -1,0 +1,15 @@
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\bin\Debug\net6.0\Sem5.exe
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\bin\Debug\net6.0\Sem5.deps.json
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\bin\Debug\net6.0\Sem5.runtimeconfig.json
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\bin\Debug\net6.0\Sem5.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\bin\Debug\net6.0\Sem5.pdb
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.csproj.AssemblyReference.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.AssemblyInfoInputs.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.AssemblyInfo.cs
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.csproj.CoreCompileInputs.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\refint\Sem5.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.pdb
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\Sem5.genruntimeconfig.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson1\Seminar5\Sem5\obj\Debug\net6.0\ref\Sem5.dll
